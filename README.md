@@ -25,7 +25,8 @@
     
 2. Treinar o modelo
 
-    - [ ] Escolher e aplicar um algoritmo
+    - [x] Escolher e aplicar um algoritmo
+    Agora com os dados prontos treinaremos nosso algoritmo e verificar sua saida.
 
 3. Pontuar e testar o modelo
 

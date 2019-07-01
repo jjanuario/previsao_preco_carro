@@ -4,7 +4,7 @@
 
 ### - Criar um modelo
 
-    [*] Obter os dados
+    [-] Obter os dados
     [] Preparar os dados
     [] Definir recursos
 

@@ -1,4 +1,4 @@
-# Previsão de preços de carros usando machine learn.
+# Prevendo preços de carros usando machine learn.
 
 <p align="center">
   <img width="301" height="379" src="funnyPrediction.jpeg">

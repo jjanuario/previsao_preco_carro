@@ -29,7 +29,7 @@
     Agora com os dados prontos iremos treinar nosso modelo.
     Neste caso de estudo para prever o numero preço/valor do carro utilizarei **regressão linear**, caso fosse a previsão de qual cor de carro seria mais vendida utilizaria classificação.
     
-    [!giphy.gif]
+    [giphy.gif]
     
     3. Pontuar e testar o modelo
 

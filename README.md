@@ -1,11 +1,11 @@
 # Previsão de preços de carros usando **machine learn**.
-\![Funny Predction](funnyPrediction.jpeg)
+![Funny Predction](funnyPrediction.jpeg)
 
 ## As estapas a serem seguidas neste caso de estudo são;
 
 ### 1. Criar um modelo
 
-    1. Obter os dados
+    *Obter os dados*
     2. Preparar os dados
     3. Definir recursos
 

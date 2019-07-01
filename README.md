@@ -4,11 +4,11 @@
 
 ### - Criar um modelo
 
-    [] Obter os dados
+    [*] Obter os dados
     [] Preparar os dados
     [] Definir recursos
 
-#### - Treinar o modelo
+### - Treinar o modelo
 
     [] Escolher e aplicar um algoritmo
 

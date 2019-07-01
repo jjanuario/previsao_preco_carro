@@ -1,4 +1,4 @@
-# Previsão de preços de carro usando machine learn
+# Previsão de preços de carros usando machine learn
 
 ## As estapas a serem seguidas neste caso de estudo são;
 

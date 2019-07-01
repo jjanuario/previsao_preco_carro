@@ -5,14 +5,14 @@
 
 ### 1. Criar um modelo
 
-    - Obter os dados
-    - Preparar os dados
-    - Definir recursos
+    * Obter os dados
+    * Preparar os dados
+    * Definir recursos
 
 ### 2. Treinar o modelo
 
-    - Escolher e aplicar um algoritmo
+    * Escolher e aplicar um algoritmo
 
 ### 3. Pontuar e testar o modelo
 
-    - Prever novos preços de automóveis
+    * Prever novos preços de automóveis

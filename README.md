@@ -1,6 +1,8 @@
 # Previsão de preços de carros usando machine learn.
 
-:![Funny Predction](funnyPrediction.jpeg):
+<p align="center">
+  <img width="301" height="379" src="funnyPrediction.jpeg">
+</p>
 
 ## As estapas a serem seguidas neste caso de estudo são;
 
@@ -29,7 +31,9 @@
     Agora com os dados prontos iremos treinar nosso modelo.
     Neste caso de estudo para prever o numero preço/valor do carro utilizarei **regressão linear**, caso fosse a previsão de qual cor de carro seria mais vendida utilizaria classificação.
     
-:![giphy.gif](giphy.gif):
+<p align="center">
+  <img width="500" height="260" src="giphy.gif">
+</p>
 
 3. Pontuar e testar o modelo
 

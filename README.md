@@ -12,9 +12,9 @@
     Aqui realizei a limpeza dos dados excluindo a coluna 'normalized-losses' e todas as linhas com dados faltantes.
     ```python
     # Removendo a coluna normalized-losses
-df = df.drop('normalized-losses', axis=1)
+    df = df.drop('normalized-losses', axis=1)
     # Apagando todas as linhas com dados faltantes
-df.dropna(inplace=True)
+    df.dropna(inplace=True)
     ```
     - [ ] Definir recursos
     

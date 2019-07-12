@@ -19,7 +19,9 @@
     df.dropna(inplace=True)
     ```
     - [x] Definir recursos
-    **Definindo os recursos** necessarios para meu caso de estudo as colunas **city-mpg** e **highway-mpg** fazem relação ao consumo de combustivel do veiculo por isso ficarei apenas com umas das colunas. Agora selecionarei apenas algunas colunas para criação do meu modelo.
+    
+    </br> **Definindo os recursos** necessarios para meu caso de estudo as colunas **city-mpg** e **highway-mpg** fazem relação ao consumo de combustivel do veiculo por isso ficarei apenas com umas das colunas. Agora selecionarei apenas algunas colunas para criação do meu modelo.
+    
     ```python
     # Visualizando a cabeça do dataset colunas make,body-style,wheel-base,engine-size,horsepower,peak-rpm,highway-mpg,price
     df[['make','body-style','wheel-base','engine-size','horsepower','peak-rpm','highway-mpg','price']].head()
